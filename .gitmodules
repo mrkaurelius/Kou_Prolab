@@ -1,0 +1,15 @@
+[submodule "p1lab1"]
+	path = p1lab1
+	url = https://github.com/mrkaurelius/p1lab1
+[submodule "p1lab2"]
+	path = p1lab2
+	url = https://github.com/mrkaurelius/p1lab2
+[submodule "p1lab3"]
+	path = p1lab3
+	url = https://github.com/mrkaurelius/p1lab3
+[submodule "p2lab1cpp"]
+	path = p2lab1cpp
+	url = https://github.com/mrkaurelius/p2lab1cpp
+[submodule "p2lab2"]
+	path = p2lab2
+	url = https://github.com/mrkaurelius/p2lab2
